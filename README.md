@@ -9,4 +9,4 @@ A Tachometer is a device which measures the speed of a rotating object like an e
 
 
 
-Ein Drehzahlmesser ist ein Gerät, das die Geschwindigkeit eines rotierenden Objekts wie eines Elektromotors oder einer Kurbelwelle eines Fahrzeugmotors misst. Die Geschwindigkeit eines Elektromotors wird durch die Anzahl der Umdrehungen bestimmt, die der Motor in einer Minute macht. 
+Ein Drehzahlmesser ist ein Gerät, das die Geschwindigkeit eines rotierenden Objekts wie eines Elektromotors oder einer Kurbelwelle eines Fahrzeugmotors misst. Die Geschwindigkeit eines Elektromotors wird durch die Anzahl der Umdrehungen bestimmt, die der Motor in einer Minute macht.Mit anderen Worten, die Geschwindigkeit wird in U/min (Umdrehungen pro Minute) gemessen. 
